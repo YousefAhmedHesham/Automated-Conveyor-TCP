@@ -10,8 +10,10 @@ The system features a 3-tier architecture:
 2.  **Raspberry Pi/Jetson (Gateway):** Acts as a middleware bridge, visualizing telemetry and simulating network lag.
 3.  **MATLAB (Client GUI):** Provides a dashboard for remote control (PWM, Targets) and live data visualization.
 
-## 📺 Project Demo
-[Insert your video link or drag-and-drop your video file here]
+## 📺 Project Video
+https://github.com/user-attachments/assets/94d9ce3a-01ec-4b65-80c5-724a0d5f85d1
+
+
 
 ## ✨ Key Features
 * **Custom TCP Protocol:** JSON-based communication with Sequence IDs, Timestamps, and Acknowledgment (ACK) logic to calculate Round-Trip Time (RTT).
